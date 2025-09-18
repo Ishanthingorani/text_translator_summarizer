@@ -1,0 +1,6 @@
+streamlit
+deep-translator
+gensim
+python-docx
+reportlab
+PyPDF2
